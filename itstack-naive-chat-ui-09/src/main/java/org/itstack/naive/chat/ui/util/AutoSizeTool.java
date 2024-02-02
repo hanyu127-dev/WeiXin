@@ -3,10 +3,10 @@ package org.itstack.naive.chat.ui.util;
 /**
  * 博  客：http://bugstack.cn
  * 公众号：bugstack虫洞栈 | 沉淀、分享、成长，让自己和他人都能有所收获！
- * create by 付政委 on @2019
+ * create by 小傅哥 on @2019
  */
 public class AutoSizeTool {
-    // 获取长度
+
     public static double getWidth(String msg) {
         int len = msg.length();
         double width = 0;
